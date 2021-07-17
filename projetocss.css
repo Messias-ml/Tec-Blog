@@ -1,0 +1,56 @@
+#fundomenu { background: #FBCB08;
+font-family: Arial, sans-serif;
+padding: 20px;
+}
+h1 {font-size: 40px;}
+#conteudo {	padding: 25px;
+}
+.menu {
+	padding: 10px 15px;
+ }
+ #fundomenu a {color: white; text-decoration: none;}
+ #fundomenu a:hover {background: white; color:#FBCB08;}
+
+ #principal {
+ 	width: 680px;
+ 	margin-left: 12%;
+ 	background: white;
+ 	padding-bottom: 20px;
+ 	margin-bottom: 20px;
+ 	z-index: 2;
+ }
+ 	#contexto {border: 0px solid red;
+ 	margin: auto 2.5%;}
+ 	p { margin-top: 0px;
+ 		margin-bottom: 0px;
+ 		font-size: 14px;}
+ 		body {background: #E6E6E6;}
+#textlateral { 
+	background: white; 
+	width: 250px;
+	padding: 5px 0px;
+	margin-bottom: 20px;
+	font-family: Arial, sans-serif;
+}
+#estrutura { 
+height: 680px;
+width: 250;
+margin-left: 12%;
+	float: right;
+position: absolute;
+top: 182px;
+left: 720px; /*53%*/
+}
+
+h3 { margin-top: 5px;
+margin-bottom: 10px;
+background: #A4A4A4;
+font-color:#585858;
+padding: 5px;
+padding-top: -2px;
+}
+#contexto2 { 
+ 	margin-bottom: 20px;
+ 	padding-top: -10px;
+ 	margin: 2.5% 2.5%;}
+ 	
